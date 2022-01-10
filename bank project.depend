@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641819905 source:c:\users\ahmed\desktop\bank project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
